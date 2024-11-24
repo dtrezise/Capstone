@@ -93,11 +93,14 @@ the model scored well in predicting the popularity of a breed from a selection o
 5. To expand upon this project, the next big step would be to create a more complex model looking at pedigree lines and predicting which lines would breed well together.
 
 
-#### Outline of project
+#### Exploration notebook of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+https://github.com/dtrezise/Capstone/blob/8b031980fee21c924470a17468e29f76b8954ead/files/BH-PCMLAI_CP20_DanTrezise_InitialReport_EDA.ipynb
+
+
+#### Final notebook of project
+
+https://github.com/dtrezise/Capstone/blob/8b031980fee21c924470a17468e29f76b8954ead/files/BH-PCMLAI_CP24_DanTrezise_FinalReport.ipynb
 
 
 ##### Contact and Further Information
