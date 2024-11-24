@@ -1,6 +1,5 @@
-### Project Title
-Predicting the Popularity of Dog Breeds
-(UC Berkely Prof Cert in ML : Capstone Project)
+### BH-PCMLAI Capstone Project
+#### Predicting the Popularity of Dog Breeds
 
 Daniel Trezise
 
